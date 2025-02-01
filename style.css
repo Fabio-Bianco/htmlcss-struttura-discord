@@ -5,62 +5,20 @@
     box-sizing: border-box;
 }
 
-
-
-
-
-
-/* .seza{
-    background-color: blue;
-    height: 500px;
+.navbar{
+    background-color: #add8e6;
+    padding-top: 20px;
+    padding-bottom: 20px;
     display: flex;
     justify-content: center;
-    align-items: center;
-    flex-direction: row;
-    padding-top: 30px;
-    padding-bottom: 30px;
-   
 }
 
-.box{
-    background-color: blueviolet;
-    height: 30px; 
-    width: 200px;
-    display: flex;
+.navbar>nav{
+    background-color: #daa520;
+    height: 40px;
+    width: 700px;
+    border-style: dashed;
 }
-.sezb{
-    background-color: white;
-    padding-top: 30px;
-    height: 500px;
-    padding-bottom: 30px;
- 
-}
-.sezc{
-    background-color: gray;
-    height: 500px;
-    padding-top: 30px;
-    padding-bottom: 30px;
-}
-.sezd{
-    background-color: white;
-    height: 500px;
-    padding-top: 30px;
-    padding-bottom: 30px;
-  
-}
-.seze{
-    background-color: black;
-    height: 500px;
-    padding-top: 30px;
-    padding-bottom: 30px; 
-}
-#centerbox{
-
-    background-color: palevioletred;
-    display: flex;
-
-} */
-
 .headcontainer{
     background-color: blue;
     height: 500px;
@@ -68,7 +26,6 @@
     padding-bottom: 30px;
     display: flex;
     justify-content: center;
-
 }
 
 .box{
@@ -77,37 +34,36 @@
     border-style: dashed;
     height: 450px;
     display: flex;
-    
 } 
-.navbar{
-    background-color: #add8e6;
+
+.container{
+    height: 2000px;
+}
+
+.sezb{
+    padding-top: 30px;
+    height: 500px;
+    padding-bottom: 30px;
+
+}
+
+.sezc{
+    background-color: gray;
+    height: 500px;
     padding-top: 30px;
     padding-bottom: 30px;
-    display: flex;
-    justify-content: center;
 }
 
-.navbar>nav{
-    background-color: #daa520;
-    height: 30px;
-    width: 700px;
-    border-style: dashed;
-    box-sizing: border-box;
+.sezd{
+    height: 500px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+  
 }
 
-#logo{
-    display: flex;
-
+.seze{
+    background-color: black;
+    height: 500px;
+    padding-top: 30px;
+    padding-bottom: 30px; 
 }
-
-#login{
-    display: flex;
-    justify-content: end;
-    
-}
-
-
-
-
-
-
