@@ -1,0 +1,113 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+
+
+
+
+/* .seza{
+    background-color: blue;
+    height: 500px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+    padding-top: 30px;
+    padding-bottom: 30px;
+   
+}
+
+.box{
+    background-color: blueviolet;
+    height: 30px; 
+    width: 200px;
+    display: flex;
+}
+.sezb{
+    background-color: white;
+    padding-top: 30px;
+    height: 500px;
+    padding-bottom: 30px;
+ 
+}
+.sezc{
+    background-color: gray;
+    height: 500px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+.sezd{
+    background-color: white;
+    height: 500px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+  
+}
+.seze{
+    background-color: black;
+    height: 500px;
+    padding-top: 30px;
+    padding-bottom: 30px; 
+}
+#centerbox{
+
+    background-color: palevioletred;
+    display: flex;
+
+} */
+
+.headcontainer{
+    background-color: blue;
+    height: 500px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    display: flex;
+    justify-content: center;
+
+}
+
+.box{
+    background-color: #ee82ee;
+    width: 1000px;
+    border-style: dashed;
+    height: 450px;
+    display: flex;
+    
+} 
+.navbar{
+    background-color: #add8e6;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    display: flex;
+    justify-content: center;
+}
+
+.navbar>nav{
+    background-color: #daa520;
+    height: 30px;
+    width: 700px;
+    border-style: dashed;
+    box-sizing: border-box;
+}
+
+#logo{
+    display: flex;
+
+}
+
+#login{
+    display: flex;
+    justify-content: end;
+    
+}
+
+
+
+
+
+
