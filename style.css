@@ -55,7 +55,6 @@
     background-color: #ffc0cb;
     height: 300px;
     width: 300px;
-
     border-style: dashed;
     display: inline-flex; 
 }
@@ -87,3 +86,42 @@
     border-style: dashed;
     display: flex;
 }
+.fathercontainer{
+    background-color: black;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+
+    
+ 
+}
+.lastbox{
+
+    background-color: #f08080;
+    width: 800px;
+    height: 700px;
+    border-style: dashed;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    
+}
+
+.ultimobox{
+    background-color: #20b2aa;
+    display: flex;
+    border-style: dashed  
+} 
+
+.uno-due-tre-quattro{
+
+    border-style: dashed
+    width: auto;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+
+  
