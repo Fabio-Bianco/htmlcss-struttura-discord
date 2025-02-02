@@ -22,6 +22,7 @@
     border-style: dashed;
 }
 
+
 /*main*/
 .headcontainer{
     background-color: blue;
@@ -88,8 +89,8 @@
 }
 .fathercontainer{
     background-color: black;
-    padding-top: 10px;
-    padding-bottom: 10px;
+    padding-top: 30px;
+    padding-bottom: 30px;
     display: flex;
     justify-content: center;
     flex-wrap: wrap;
@@ -130,4 +131,20 @@
     display: flex;
     border-style: dashed  
 } 
+
+.final{
+    background-color: black;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    display: flex;
+    justify-content: center;
+}
   
+.navfinale{
+ background-color: #add8e6;
+width: 700px;
+display: inline-flex;
+justify-content: end;
+}
+
+
