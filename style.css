@@ -100,7 +100,7 @@
 .lastbox{
 
     background-color: #f08080;
-    width: 800px;
+    width: 1000px;
     height: 700px;
     border-style: dashed;
     display: flex;
@@ -112,17 +112,22 @@
 .ultimobox{
     background-color: #20b2aa;
     display: flex;
+    flex-wrap: wrap;
     border-style: dashed  
 } 
 
 .uno-due-tre-quattro{
 
-    height: 300px;
+    height: 700px;
     width: auto;
     display: flex;
     flex-wrap: wrap;
     border-style: dashed
 }
 
-
+.ultimobox{
+    background-color: #20b2aa;
+    display: flex;
+    border-style: dashed  
+} 
   
