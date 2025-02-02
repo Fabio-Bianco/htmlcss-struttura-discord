@@ -4,7 +4,6 @@
     padding: 0;
     box-sizing: border-box;
 }
-
 .navbar{
     background-color: #add8e6;
     padding-top: 20px;
@@ -12,7 +11,6 @@
     display: flex;
     justify-content: center;
 }
-
 .navbar>nav{
     background-color: #daa520;
     height: 40px;
@@ -21,49 +19,74 @@
 }
 .headcontainer{
     background-color: blue;
-    height: 500px;
+    
     padding-top: 30px;
     padding-bottom: 30px;
     display: flex;
     justify-content: center;
 }
-
 .box{
     background-color: #ee82ee;
-    width: 1000px;
+    width: 800px;
+    height: 300px;
     border-style: dashed;
-    height: 450px;
     display: flex;
 } 
 
-.container{
-    height: 2000px;
-}
-
 .sezb{
     padding-top: 30px;
-    height: 500px;
     padding-bottom: 30px;
-
+    display: flex;
+    justify-content: center;
 }
+.big{
+     background-color: #1e90ff;
+     height: 300px;
+     width: 700px;
+     border-style: dashed;
+     padding-right: 0%;
+     display: inline-flex;
+}
+.small{
+    background-color: #ffc0cb;
+    height: 300px;
+    width: 350px;
 
-.sezc{
+    border-style: dashed;
+    display: inline-flex; 
+}
+ .sezc{
     background-color: gray;
-    height: 500px;
     padding-top: 30px;
     padding-bottom: 30px;
-}
-
-.sezd{
-    height: 500px;
+    display: flex;
+    justify-content: center;
+ }
+ .sezd{
     padding-top: 30px;
     padding-bottom: 30px;
-  
-}
+    display: flex;
+    justify-content: center;
+ }
 
-.seze{
+.footcontainer{
     background-color: black;
     height: 500px;
     padding-top: 30px;
     padding-bottom: 30px; 
+}
+
+.footnav{
+    background-color: aliceblue;
+    padding-top: 20px;
+    padding-bottom: 20px;
+
+} 
+
+.footcontainer{
+    background-color: gray;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    display: flex;
+    justify-content: center;
 }
