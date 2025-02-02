@@ -1,9 +1,13 @@
 
+/*Reset*/
+
 *{
     margin: 0;
     padding: 0;
     box-sizing: border-box;
 }
+
+/*Barra di navigazione*/
 .navbar{
     background-color: #add8e6;
     padding-top: 20px;
@@ -17,9 +21,10 @@
     width: 700px;
     border-style: dashed;
 }
+
+/*main*/
 .headcontainer{
     background-color: blue;
-    
     padding-top: 30px;
     padding-bottom: 30px;
     display: flex;
@@ -32,7 +37,6 @@
     border-style: dashed;
     display: flex;
 } 
-
 .sezb{
     padding-top: 30px;
     padding-bottom: 30px;
@@ -50,7 +54,7 @@
 .small{
     background-color: #ffc0cb;
     height: 300px;
-    width: 350px;
+    width: 300px;
 
     border-style: dashed;
     display: inline-flex; 
@@ -68,25 +72,18 @@
     display: flex;
     justify-content: center;
  }
-
-.footcontainer{
-    background-color: black;
-    height: 500px;
-    padding-top: 30px;
-    padding-bottom: 30px; 
-}
-
-.footnav{
-    background-color: aliceblue;
-    padding-top: 20px;
-    padding-bottom: 20px;
-
-} 
-
 .footcontainer{
     background-color: gray;
     padding-top: 30px;
     padding-bottom: 30px;
     display: flex;
     justify-content: center;
+}
+.box2{
+
+    background-color: green;
+    width: 1000px;
+    height: 700px;
+    border-style: dashed;
+    display: flex;
 }
