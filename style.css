@@ -117,10 +117,11 @@
 
 .uno-due-tre-quattro{
 
-    border-style: dashed
+    height: 300px;
     width: auto;
     display: flex;
     flex-wrap: wrap;
+    border-style: dashed
 }
 
 
