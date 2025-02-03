@@ -21,7 +21,21 @@
     width: 700px;
     border-style: dashed;
 }
+.navbar{
+    display: flex;
+}
 
+.logo{
+    display: flex;
+}
+.menu{
+    display: flex;
+}
+
+.login{
+    display: flex;
+    justify-content: end;
+}
 
 /*main*/
 .headcontainer{
